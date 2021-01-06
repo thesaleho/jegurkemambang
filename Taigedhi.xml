@@ -1,26 +1,26 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="1.Publikc 📡" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="2.Jawa Etan 📡" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="3.Jawa Tengah 📡" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="45672" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="4.Jawa Barat 📡" ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="45673" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="5.DI Yogyakarta 📡" ca="0" continent_code="ID" country="Jogjakarta" country_code="ID" ip="164.132.3.62" port="45674" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="6.Banten 📡" ca="0" continent_code="ID" country="banten" country_code="ID" ip="164.132.3.62" port="45784" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="7.Nanggroe Aceh Darussalam 📡" ca="0" continent_code="ID" country="aceh" country_code="ID" ip="164.132.3.62" port="45828" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
-<server name="8.Nusa Tenggara Barat 📡" ca="0" continent_code="ID" country="Nusa tenggara barat" country_code="ID" ip="164.132.3.62" port="45818" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="9.Lampung 📡" ca="0" continent_code="ID" country="Lampung" country_code="ID" ip="164.132.3.62" port="45816" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="10.Kalimantan Barat 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45874" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
-<server name="11.Kalimantan Timur 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45873" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
-<server name="12.Kalimantan Selatan 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45875" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="1.ROOM MODULASI 📡" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
+<server name="2.ROOM KARAOKE 📡" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="164.132.3.62" port="45671" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="3.SIBUK 📡" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="4.SIBUK 📡" ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="45673" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="5.SIBUK 📡" ca="0" continent_code="ID" country="Jogjakarta" country_code="ID" ip="164.132.3.62" port="45674" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="6.SIBUK 📡" ca="0" continent_code="ID" country="banten" country_code="ID" ip="164.132.3.62" port="45784" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="7.SIBUK 📡" ca="0" continent_code="ID" country="aceh" country_code="ID" ip="164.132.3.62" port="45828" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
+<server name="8.SIBUK 📡" ca="0" continent_code="ID" country="Nusa tenggara barat" country_code="ID" ip="164.132.3.62" port="45818" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="9.SIBUK 📡" ca="0" continent_code="ID" country="Lampung" country_code="ID" ip="164.132.3.62" port="45816" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="10.SIBUK 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45874" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
+<server name="11.SIBUK 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45873" region="Rakomwar Regional" url="http://mb.puma-network.net" token=""/>
+<server name="12.SIBUK 📡" ca="0" continent_code="ID" country="Kalimantan" country_code="ID" ip="164.132.3.62" port="45875" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- Server Aktif -->
 <!-- pulau Jawa -->
-<server name="13.DKI Jakarta" ca="0" continent_code="ID" country="Dki Jakarta" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="13.SIBUK" ca="0" continent_code="ID" country="Dki Jakarta" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- pulau Jawa -->
 <!-- pulau Sumatra -->
-<server name="14.Sumatera Utara" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="15.Sumatera Barat" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="16.Sumatera Selatan" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="17.Riau" ca="0" continent_code="ID" country="riau" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="14.SIBUK" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="15.SIBUK" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="16.SIBUK" ca="0" continent_code="ID" country="Sumatra" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="17.SIBUK" ca="0" continent_code="ID" country="riau" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="18.Kepulauan Riau" ca="0" continent_code="ID" country="riau" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="19.Jambi" ca="0" continent_code="ID" country="jambi" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="20.Bengkulu" ca="0" continent_code="ID" country="Bengkulu" country_code="ID" ip="164.132.3.62" port="43280" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
