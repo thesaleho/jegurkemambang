@@ -1,7 +1,7 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="CH 01.ROOM MODULASI Ⓜ️" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
-<server name="CH 02.ROOM KARAOKE 🎵" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="CH 01.ROOM MODULASI" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
+<server name="CH 02.ROOM KARAOKE" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH 03." ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH 04." ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="CH 05." ca="0" continent_code="ID" country="Jogjakarta" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
