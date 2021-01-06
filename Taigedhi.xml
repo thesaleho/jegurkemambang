@@ -1,5 +1,5 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
 <server name="01 : ROOM MODULASI" ca="0" continent_code="ID" country="01" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
-<server name="02  : ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="198.24.160.150" port="39790" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="02  : ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
 </servers>
