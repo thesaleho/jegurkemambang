@@ -1,6 +1,6 @@
 <? xml version = '1.0' standalone = 'yes'?>
 <servers>
-<nama server = "SNB" ca = "0" benua_code = "ID" country = "01" country_code = "ID" ip = "198.24.160.150" port = "33610" region = "Rakomnet regional" url = "http: //mumble-us.cleanvoice.com "token =" "/>
+<nama server = "01 : ROOM MODULASI" ca = "0" benua_code = "ID" country = "01" country_code = "ID" ip = "mumble-de.cleanvoice.com" port = "43077" region = "Rakomnet regional" url = "http: //mumble-de.cleanvoice.com "token =" "/>
 <nama server = "RKI" ca = "0" benua_code = "ID" country = "02" country_code = "ID" ip = "164.132.3.62" port = "46129" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
 <nama server = "RDPV" ca = "0" benua_code = "ID" country = "03" country_code = "ID" ip = "198.24.160.150" port = "34267" region = "Rakomnet regional" url = "http: //mumble-us.cleanvoice.com "token =" "/>
 <nama server = "RVS" ca = "0" benua_code = "ID" country = "04" country_code = "ID" ip = "164.132.3.62" port = "45799" region = "Rakomnet regional" url = "http: //mb.puma-network.net "token =" "/>
