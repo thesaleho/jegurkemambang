@@ -2,7 +2,7 @@
 <servers>
 <server name="01 : ROOM MODULASI" ca="0" continent_code="ID" country="01" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
 <server name="02  : ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="03  : ROOM KOSONG" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="0" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="04  : ROOM KOSONG" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="0" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
-<server name="05  : ROOM KOSONG" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="0" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="03  : ROOM KOSONG" ca="0" continent_code="ID" country="03" country_code="ID" ip="164.132.3.62" port="65780" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="04  : ROOM KOSONG" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="75780" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="05  : ROOM KOSONG" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="98670" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 </servers>
