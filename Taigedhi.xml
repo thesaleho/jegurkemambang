@@ -2,7 +2,7 @@
 <servers>
 <server name="1.ROOM MODULASI 📡" ca="0" continent_code="ID" country="Nusantara" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomwar Nasional" url="http://mb.puma-network.net" token=""/>
 <server name="2.ROOM KARAOKE 📡" ca="0" continent_code="ID" country="Jawa timur" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
-<server name="3.SIBUK 📡" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="3.PROSES 📡" ca="0" continent_code="ID" country="Jawa tengah" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="4.SIBUK 📡" ca="0" continent_code="ID" country="Jawa barat" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="5.SIBUK 📡" ca="0" continent_code="ID" country="Jogjakarta" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="6.SIBUK 📡" ca="0" continent_code="ID" country="banten" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
@@ -47,7 +47,7 @@
 <server name="33.SIBUK" ca="0" continent_code="ID" country="Maluku Utara" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- pulau Maluku -->
 <!-- pulau papua -->
-<server name="34.Papua" ca="0" continent_code="ID" country="Papua" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
+<server name="34.SIBUK" ca="0" continent_code="ID" country="Papua" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <server name="35.SIBUK" ca="0" continent_code="ID" country="Papua Barat" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar regional" url="http://mb.puma-network.net" token=""/>
 <!-- pulau papua -->
 <server name="36.SIBUK" ca="0" continent_code="ID" country="No.3: Zona Request 1" country_code="ID" ip="164.132.3.62" port="0" region="Rakomwar Zona Khusus" url="http://mb.puma-network.net" token=""/>
