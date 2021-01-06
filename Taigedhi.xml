@@ -1,5 +1,8 @@
 <?xml version='1.0' standalone='yes'?>
 <servers>
-<server name="01 : ROOM MODULASlI" ca="0" continent_code="ID" country="01" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
-<server name="02  : ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
+<server name="S.N.B" ca="0" continent_code="ID" country="01" country_code="ID" ip="198.24.160.150" port="33610" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
+<server name="R.K.I" ca="0" continent_code="ID" country="02" country_code="ID" ip="164.132.3.62" port="46129" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="R.D.P.V" ca="0" continent_code="ID" country="03" country_code="ID" ip="198.24.160.150" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com" token=""/>
+<server name="R.V.S" ca="0" continent_code="ID" country="04" country_code="ID" ip="164.132.3.62" port="45799" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
+<server name="KOPI" ca="0" continent_code="ID" country="05" country_code="ID" ip="164.132.3.62" port="45916" region="Rakomnet regional" url="http://mb.puma-network.net" token=""/>
 </server>
