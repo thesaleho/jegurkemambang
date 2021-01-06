@@ -2,6 +2,4 @@
 <servers>
 <server name="01 : ROOM MODULASI" ca="0" continent_code="ID" country="01" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
 <server name="02  : ROOM KARAOKE" ca="0" continent_code="ID" country="02" country_code="ID" ip="mumble-de.cleanvoice.com" port="39790" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
-<server name="03 : ROOM KOSONG" ca="0" continent_code="ID" country="03" country_code="ID" ip="mumble-de.cleanvoice.com" port="44908" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
-<server name="04  : ROOM KOSONG" ca="0" continent_code="ID" country="04" country_code="ID" ip="mumble-de.cleanvoice.com" port="66987" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com" token=""/>
 </servers>
