@@ -2,3 +2,5 @@
 <servers>
 <server name="01 : ROOM MODULASI" ca="0" continent_code="ID" country="03" country_code="ID" ip="mumble-de.cleanvoice.com" port="43077" region="Rakomnet regional" url="http://mumble-de.cleanvoice.com " token=""/>
 </servers>
+<server name="02 : ROOM KARAOKE" ca="0" continent_code="ID" country="03" country_code="ID" ip="mumble-us.cleanvoice.com" port="34267" region="Rakomnet regional" url="http://mumble-us.cleanvoice.com " token=""/>
+</servers>
